@@ -1,13 +1,13 @@
-2024/07/12-15:23:10.570 2d4c Reusing MANIFEST C:\Users\Dev\Desktop\hardy\bottresfrom\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/12-15:23:10.571 2d4c Recovering log #721
-2024/07/12-15:23:10.576 2d4c Reusing old log C:\Users\Dev\Desktop\hardy\bottresfrom\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000721.log 
-2024/07/12-15:23:11.642 23d0 Level-0 table #726: started
-2024/07/12-15:23:11.648 23d0 Level-0 table #726: 100416 bytes OK
-2024/07/12-15:23:11.650 23d0 Delete type=0 #721
-2024/07/12-15:23:11.651 2d4c Manual compaction at level-0 from '\x00\xf9\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfa\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/07/12-15:23:13.436 4bd8 Compacting 1@1 + 1@2 files
-2024/07/12-15:23:13.509 4bd8 Generated table #727@1: 50741 keys, 1951990 bytes
-2024/07/12-15:23:13.509 4bd8 Compacted 1@1 + 1@2 files => 1951990 bytes
-2024/07/12-15:23:13.510 4bd8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/12-15:23:13.510 4bd8 Delete type=2 #723
-2024/07/12-15:23:13.511 4bd8 Delete type=2 #726
+2024/07/12-15:48:10.039 52e0 Reusing MANIFEST C:\Users\Dev\Desktop\hardy\bottresfrom\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-15:48:10.040 52e0 Recovering log #725
+2024/07/12-15:48:10.055 52e0 Reusing old log C:\Users\Dev\Desktop\hardy\bottresfrom\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000725.log 
+2024/07/12-15:48:11.121 454c Level-0 table #730: started
+2024/07/12-15:48:11.135 454c Level-0 table #730: 600922 bytes OK
+2024/07/12-15:48:11.136 454c Delete type=0 #725
+2024/07/12-15:48:11.137 4b44 Manual compaction at level-0 from '\x00\xfa\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfb\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/12-15:48:12.837 52e0 Compacting 1@1 + 1@2 files
+2024/07/12-15:48:12.916 52e0 Generated table #731@1: 53435 keys, 2090979 bytes
+2024/07/12-15:48:12.916 52e0 Compacted 1@1 + 1@2 files => 2090979 bytes
+2024/07/12-15:48:12.917 52e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/12-15:48:12.917 52e0 Delete type=2 #727
+2024/07/12-15:48:12.917 52e0 Delete type=2 #730
