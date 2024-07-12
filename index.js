@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 let client;
-
+//nuevo
 // Funciones auxiliares
 let datosAPI = [];
 
